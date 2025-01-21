@@ -1,4 +1,42 @@
-h1{
+body {
+  text-align: center;
+}
+
+h1 {
   border-color: #d3e644;
   border-style: dashed;
+}
+
+h3 {
+  font-size: x-large;
+}
+
+.about {
+  font-size: larger;
+  display: flex;
+  width: 100%;
+}
+
+.about-list {
+  flex: 1;
+  padding: 20px;
+  text-align: left;
+}
+
+.about-image {
+  flex: 1;
+  padding: 20px;
+}
+
+.about-image img {
+  height: auto;
+  max-width: 50%;
+}
+
+#num1 {
+  margin-bottom: 10px;
+}
+
+#num2 {
+  margin-bottom: 10px;
 }
