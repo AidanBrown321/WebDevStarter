@@ -1,0 +1,16 @@
+{
+  "name": "web-dev",
+  "version": "0.0.1",
+  "description": "Learning to Code",
+  "private": true,
+  "license": "MIT",
+  "author": "Pat von Student",
+  "type": "module",
+  "scripts": {
+    "test": "npx qunit"
+  },
+  "devDependencies": {
+    "qunit": "^2.23.1",
+    "sinon": "^19.0.2"
+  }
+}

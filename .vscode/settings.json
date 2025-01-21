@@ -1,0 +1,15 @@
+{
+	"launch": {
+		"configurations": [
+			{
+				"name": "Debug Website",
+				"type": "chrome",
+				"request": "launch",
+				"url": "http://127.0.0.1:3000/"
+			}
+		]
+	},
+	"ltex.enabled": false,
+	"cSpell.enabled": true,
+
+}
